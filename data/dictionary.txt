@@ -1,0 +1,6 @@
+word1=apple
+meaning1= fruit
+meaning 2= company
+word2=fair
+meaning1=event
+meaning2=equality
